@@ -1,0 +1,8463 @@
+[
+  {
+    "id": "item_001",
+    "name": "Wireless Noise-Cancelling Earbuds",
+    "price_inr": 2900,
+    "category": "tech",
+    "occasion_tags": [
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_002",
+    "name": "Smart LED Desk Lamp",
+    "price_inr": 12700,
+    "category": "tech",
+    "occasion_tags": [
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_003",
+    "name": "Portable Bluetooth Speaker",
+    "price_inr": 10000,
+    "category": "tech",
+    "occasion_tags": [
+      "holiday",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_004",
+    "name": "Mechanical Keyboard",
+    "price_inr": 3800,
+    "category": "tech",
+    "occasion_tags": [
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "friend",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_005",
+    "name": "Fitness Tracker Band",
+    "price_inr": 3900,
+    "category": "tech",
+    "occasion_tags": [
+      "other",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_006",
+    "name": "USB-C Power Bank 20000mAh",
+    "price_inr": 9600,
+    "category": "tech",
+    "occasion_tags": [
+      "other",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_007",
+    "name": "Smart Plug Set",
+    "price_inr": 1600,
+    "category": "tech",
+    "occasion_tags": [
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_008",
+    "name": "Webcam HD 1080p",
+    "price_inr": 5100,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_009",
+    "name": "Phone Tripod Stand",
+    "price_inr": 10100,
+    "category": "tech",
+    "occasion_tags": [
+      "holiday",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_010",
+    "name": "Digital Photo Frame",
+    "price_inr": 11700,
+    "category": "tech",
+    "occasion_tags": [
+      "holiday",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_011",
+    "name": "Wireless Charging Pad",
+    "price_inr": 7300,
+    "category": "tech",
+    "occasion_tags": [
+      "other",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_012",
+    "name": "Smart Water Bottle",
+    "price_inr": 12800,
+    "category": "tech",
+    "occasion_tags": [
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_013",
+    "name": "E-Reader Case",
+    "price_inr": 9600,
+    "category": "tech",
+    "occasion_tags": [
+      "graduation",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_014",
+    "name": "Laptop Stand Aluminium",
+    "price_inr": 7100,
+    "category": "tech",
+    "occasion_tags": [
+      "graduation",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_015",
+    "name": "Mini Projector",
+    "price_inr": 9300,
+    "category": "tech",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_016",
+    "name": "Smart Notebook Reusable",
+    "price_inr": 9600,
+    "category": "tech",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_017",
+    "name": "Cable Organiser Kit",
+    "price_inr": 8800,
+    "category": "tech",
+    "occasion_tags": [
+      "graduation",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_018",
+    "name": "Ring Light 10-inch",
+    "price_inr": 6800,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_019",
+    "name": "Action Camera Mount",
+    "price_inr": 6600,
+    "category": "tech",
+    "occasion_tags": [
+      "other",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_020",
+    "name": "Desk Mat Extended",
+    "price_inr": 4000,
+    "category": "tech",
+    "occasion_tags": [
+      "wedding",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_021",
+    "name": "Handcrafted Bamboo Tea Set",
+    "price_inr": 4800,
+    "category": "kitchen",
+    "occasion_tags": [
+      "just-because",
+      "holiday",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_022",
+    "name": "Cast Iron Skillet",
+    "price_inr": 6600,
+    "category": "kitchen",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_023",
+    "name": "Electric Spice Grinder",
+    "price_inr": 5000,
+    "category": "kitchen",
+    "occasion_tags": [
+      "holiday",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_024",
+    "name": "Artisan Coffee Pour-Over Kit",
+    "price_inr": 3900,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_025",
+    "name": "Premium Knife Set",
+    "price_inr": 4400,
+    "category": "kitchen",
+    "occasion_tags": [
+      "just-because",
+      "holiday",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "other",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_026",
+    "name": "Silicone Baking Mat Set",
+    "price_inr": 6700,
+    "category": "kitchen",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_027",
+    "name": "Cold Brew Coffee Maker",
+    "price_inr": 6900,
+    "category": "kitchen",
+    "occasion_tags": [
+      "graduation",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_028",
+    "name": "Ceramic Mixing Bowl Set",
+    "price_inr": 5300,
+    "category": "kitchen",
+    "occasion_tags": [
+      "graduation",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_029",
+    "name": "Herb Garden Starter Kit",
+    "price_inr": 1400,
+    "category": "kitchen",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_030",
+    "name": "Digital Kitchen Scale",
+    "price_inr": 4700,
+    "category": "kitchen",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_031",
+    "name": "Japanese Matcha Set",
+    "price_inr": 4200,
+    "category": "kitchen",
+    "occasion_tags": [
+      "graduation",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_032",
+    "name": "Copper Moscow Mule Mugs",
+    "price_inr": 6400,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_033",
+    "name": "Acacia Wood Cutting Board",
+    "price_inr": 4900,
+    "category": "kitchen",
+    "occasion_tags": [
+      "just-because",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_034",
+    "name": "Glass Meal Prep Containers",
+    "price_inr": 4400,
+    "category": "kitchen",
+    "occasion_tags": [
+      "holiday",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_035",
+    "name": "Electric Milk Frother",
+    "price_inr": 3700,
+    "category": "kitchen",
+    "occasion_tags": [
+      "other",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_036",
+    "name": "Aromatherapy Diffuser",
+    "price_inr": 1700,
+    "category": "wellness",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_037",
+    "name": "Yoga Mat Premium Cork",
+    "price_inr": 1300,
+    "category": "wellness",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_038",
+    "name": "Meditation Cushion",
+    "price_inr": 3100,
+    "category": "wellness",
+    "occasion_tags": [
+      "wedding",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "other",
+      "friend"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_039",
+    "name": "Jade Facial Roller",
+    "price_inr": 2300,
+    "category": "wellness",
+    "occasion_tags": [
+      "just-because",
+      "holiday",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "other",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_040",
+    "name": "Essential Oil Collection",
+    "price_inr": 1300,
+    "category": "wellness",
+    "occasion_tags": [
+      "wedding",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_041",
+    "name": "Acupressure Mat",
+    "price_inr": 7700,
+    "category": "wellness",
+    "occasion_tags": [
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_042",
+    "name": "Sleep Sound Machine",
+    "price_inr": 7200,
+    "category": "wellness",
+    "occasion_tags": [
+      "just-because",
+      "other",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_043",
+    "name": "Himalayan Salt Lamp",
+    "price_inr": 6100,
+    "category": "wellness",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_044",
+    "name": "Massage Gun Mini",
+    "price_inr": 1800,
+    "category": "wellness",
+    "occasion_tags": [
+      "birthday",
+      "other",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_045",
+    "name": "Herbal Tea Collection",
+    "price_inr": 6600,
+    "category": "wellness",
+    "occasion_tags": [
+      "other",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_046",
+    "name": "Silk Eye Mask",
+    "price_inr": 700,
+    "category": "wellness",
+    "occasion_tags": [
+      "graduation",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "colleague",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_047",
+    "name": "Bamboo Bath Caddy Tray",
+    "price_inr": 6500,
+    "category": "wellness",
+    "occasion_tags": [
+      "graduation",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_048",
+    "name": "Scented Soy Candle Set",
+    "price_inr": 2500,
+    "category": "wellness",
+    "occasion_tags": [
+      "graduation",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_049",
+    "name": "Weighted Blanket 7kg",
+    "price_inr": 1600,
+    "category": "wellness",
+    "occasion_tags": [
+      "just-because",
+      "graduation",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_050",
+    "name": "Foot Massager Electric",
+    "price_inr": 4700,
+    "category": "wellness",
+    "occasion_tags": [
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_051",
+    "name": "Leather Journal Handmade",
+    "price_inr": 3200,
+    "category": "books",
+    "occasion_tags": [
+      "graduation",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_052",
+    "name": "Book Lovers Gift Box",
+    "price_inr": 400,
+    "category": "books",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_053",
+    "name": "Bookshelf Organiser",
+    "price_inr": 2300,
+    "category": "books",
+    "occasion_tags": [
+      "holiday",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_054",
+    "name": "Reading Light Clip-On",
+    "price_inr": 500,
+    "category": "books",
+    "occasion_tags": [
+      "holiday",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_055",
+    "name": "Literary Classics Collection",
+    "price_inr": 500,
+    "category": "books",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_056",
+    "name": "Book Subscription Box",
+    "price_inr": 1500,
+    "category": "books",
+    "occasion_tags": [
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_057",
+    "name": "Magnetic Bookmarks Set",
+    "price_inr": 2700,
+    "category": "books",
+    "occasion_tags": [
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_058",
+    "name": "Book Page Holder",
+    "price_inr": 2900,
+    "category": "books",
+    "occasion_tags": [
+      "other",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_059",
+    "name": "Poetry Anthology Deluxe",
+    "price_inr": 2000,
+    "category": "books",
+    "occasion_tags": [
+      "just-because",
+      "other",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_060",
+    "name": "Graphic Novel Collection",
+    "price_inr": 800,
+    "category": "books",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_061",
+    "name": "Audiobook Gift Card",
+    "price_inr": 3100,
+    "category": "books",
+    "occasion_tags": [
+      "holiday",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_062",
+    "name": "Book Embosser Custom",
+    "price_inr": 3300,
+    "category": "books",
+    "occasion_tags": [
+      "other",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_063",
+    "name": "Reading Glasses Blue Light",
+    "price_inr": 2000,
+    "category": "books",
+    "occasion_tags": [
+      "other",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_064",
+    "name": "Floating Wall Shelf Set",
+    "price_inr": 2200,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_065",
+    "name": "Macrame Wall Hanging",
+    "price_inr": 2400,
+    "category": "home-decor",
+    "occasion_tags": [
+      "just-because",
+      "holiday",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_066",
+    "name": "LED String Fairy Lights",
+    "price_inr": 2700,
+    "category": "home-decor",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_067",
+    "name": "Decorative Throw Pillows",
+    "price_inr": 800,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_068",
+    "name": "Plant Pot Set Ceramic",
+    "price_inr": 3500,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_069",
+    "name": "Terrazzo Coasters Set",
+    "price_inr": 600,
+    "category": "home-decor",
+    "occasion_tags": [
+      "holiday",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_070",
+    "name": "Moon Phase Wall Art",
+    "price_inr": 5100,
+    "category": "home-decor",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_071",
+    "name": "Geometric Candle Holders",
+    "price_inr": 5100,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_072",
+    "name": "Woven Throw Blanket",
+    "price_inr": 4200,
+    "category": "home-decor",
+    "occasion_tags": [
+      "anniversary",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_073",
+    "name": "Photo Collage Frame Kit",
+    "price_inr": 3700,
+    "category": "home-decor",
+    "occasion_tags": [
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_074",
+    "name": "Incense Holder Brass",
+    "price_inr": 3600,
+    "category": "home-decor",
+    "occasion_tags": [
+      "graduation",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_075",
+    "name": "Artificial Succulent Set",
+    "price_inr": 3700,
+    "category": "home-decor",
+    "occasion_tags": [
+      "holiday",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_076",
+    "name": "Table Clock Modern",
+    "price_inr": 5000,
+    "category": "home-decor",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_077",
+    "name": "Wall Mirror Round Gold",
+    "price_inr": 5200,
+    "category": "home-decor",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_078",
+    "name": "Decorative Tray Marble",
+    "price_inr": 4800,
+    "category": "home-decor",
+    "occasion_tags": [
+      "anniversary",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "artist",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_079",
+    "name": "Cashmere Scarf",
+    "price_inr": 2300,
+    "category": "fashion",
+    "occasion_tags": [
+      "holiday",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_080",
+    "name": "Leather Wallet Minimalist",
+    "price_inr": 7500,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_081",
+    "name": "Silk Tie Premium",
+    "price_inr": 2800,
+    "category": "fashion",
+    "occasion_tags": [
+      "other",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "other",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_082",
+    "name": "Sunglasses Polarised",
+    "price_inr": 3000,
+    "category": "fashion",
+    "occasion_tags": [
+      "wedding",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_083",
+    "name": "Watch Strap Leather",
+    "price_inr": 2000,
+    "category": "fashion",
+    "occasion_tags": [
+      "graduation",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "other",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_084",
+    "name": "Cotton Tote Bag Canvas",
+    "price_inr": 1800,
+    "category": "fashion",
+    "occasion_tags": [
+      "anniversary",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_085",
+    "name": "Silver Cufflinks",
+    "price_inr": 3800,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_086",
+    "name": "Hair Accessories Gift Set",
+    "price_inr": 5300,
+    "category": "fashion",
+    "occasion_tags": [
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_087",
+    "name": "Beanie Cap Merino Wool",
+    "price_inr": 3800,
+    "category": "fashion",
+    "occasion_tags": [
+      "anniversary",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_088",
+    "name": "Crossbody Bag Compact",
+    "price_inr": 5400,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_089",
+    "name": "Umbrella Windproof Auto",
+    "price_inr": 7000,
+    "category": "fashion",
+    "occasion_tags": [
+      "holiday",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_090",
+    "name": "Belt Leather Reversible",
+    "price_inr": 1300,
+    "category": "fashion",
+    "occasion_tags": [
+      "graduation",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_091",
+    "name": "Insulated Water Bottle",
+    "price_inr": 5200,
+    "category": "outdoor",
+    "occasion_tags": [
+      "graduation",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "other",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_092",
+    "name": "Camping Hammock",
+    "price_inr": 1600,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_093",
+    "name": "Hiking Backpack 20L",
+    "price_inr": 5300,
+    "category": "outdoor",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_094",
+    "name": "Solar Lantern",
+    "price_inr": 1000,
+    "category": "outdoor",
+    "occasion_tags": [
+      "wedding",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_095",
+    "name": "Binoculars Compact",
+    "price_inr": 7800,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "other",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_096",
+    "name": "Adventure Map Scratch",
+    "price_inr": 700,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_097",
+    "name": "Picnic Blanket Waterproof",
+    "price_inr": 6500,
+    "category": "outdoor",
+    "occasion_tags": [
+      "wedding",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_098",
+    "name": "Trekking Poles Set",
+    "price_inr": 3100,
+    "category": "outdoor",
+    "occasion_tags": [
+      "wedding",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_099",
+    "name": "Outdoor Cooking Kit",
+    "price_inr": 4300,
+    "category": "outdoor",
+    "occasion_tags": [
+      "holiday",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "other",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_100",
+    "name": "Multi-Tool Swiss",
+    "price_inr": 1000,
+    "category": "outdoor",
+    "occasion_tags": [
+      "other",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_101",
+    "name": "Head Torch Rechargeable",
+    "price_inr": 2400,
+    "category": "outdoor",
+    "occasion_tags": [
+      "anniversary",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_102",
+    "name": "Dry Bag Waterproof",
+    "price_inr": 1700,
+    "category": "outdoor",
+    "occasion_tags": [
+      "anniversary",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_103",
+    "name": "Fountain Pen Premium",
+    "price_inr": 3500,
+    "category": "stationery",
+    "occasion_tags": [
+      "graduation",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_104",
+    "name": "Bullet Journal Dotted",
+    "price_inr": 3100,
+    "category": "stationery",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_105",
+    "name": "Washi Tape Collection",
+    "price_inr": 2700,
+    "category": "stationery",
+    "occasion_tags": [
+      "birthday",
+      "other",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "friend"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_106",
+    "name": "Calligraphy Set",
+    "price_inr": 3800,
+    "category": "stationery",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_107",
+    "name": "Desk Organiser Wooden",
+    "price_inr": 2500,
+    "category": "stationery",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_108",
+    "name": "Sticky Notes Deluxe Pack",
+    "price_inr": 4000,
+    "category": "stationery",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_109",
+    "name": "Watercolour Pencil Set",
+    "price_inr": 400,
+    "category": "stationery",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_110",
+    "name": "Letter Writing Kit",
+    "price_inr": 3500,
+    "category": "stationery",
+    "occasion_tags": [
+      "graduation",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_111",
+    "name": "Planner 2024 Premium",
+    "price_inr": 1000,
+    "category": "stationery",
+    "occasion_tags": [
+      "graduation",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_112",
+    "name": "Pen Stand Marble",
+    "price_inr": 1500,
+    "category": "stationery",
+    "occasion_tags": [
+      "just-because",
+      "other",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_113",
+    "name": "Origami Paper Set",
+    "price_inr": 3700,
+    "category": "stationery",
+    "occasion_tags": [
+      "anniversary",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "friend"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_114",
+    "name": "Wax Seal Stamp Kit",
+    "price_inr": 2800,
+    "category": "stationery",
+    "occasion_tags": [
+      "wedding",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_115",
+    "name": "Gourmet Chocolate Box",
+    "price_inr": 1600,
+    "category": "food-drink",
+    "occasion_tags": [
+      "wedding",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_116",
+    "name": "Single Origin Coffee Beans",
+    "price_inr": 3000,
+    "category": "food-drink",
+    "occasion_tags": [
+      "just-because",
+      "holiday",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_117",
+    "name": "Artisan Honey Collection",
+    "price_inr": 2300,
+    "category": "food-drink",
+    "occasion_tags": [
+      "anniversary",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_118",
+    "name": "Premium Loose Leaf Tea Set",
+    "price_inr": 800,
+    "category": "food-drink",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_119",
+    "name": "Exotic Spice Gift Box",
+    "price_inr": 1900,
+    "category": "food-drink",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_120",
+    "name": "Craft Beer Selection",
+    "price_inr": 3100,
+    "category": "food-drink",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_121",
+    "name": "Biscotti Assortment",
+    "price_inr": 4800,
+    "category": "food-drink",
+    "occasion_tags": [
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_122",
+    "name": "Dried Fruit Nut Hamper",
+    "price_inr": 400,
+    "category": "food-drink",
+    "occasion_tags": [
+      "holiday",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_123",
+    "name": "Hot Sauce Collection",
+    "price_inr": 800,
+    "category": "food-drink",
+    "occasion_tags": [
+      "other",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_124",
+    "name": "Organic Granola Gift Set",
+    "price_inr": 600,
+    "category": "food-drink",
+    "occasion_tags": [
+      "wedding",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_125",
+    "name": "Infused Olive Oil Set",
+    "price_inr": 2700,
+    "category": "food-drink",
+    "occasion_tags": [
+      "just-because",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_126",
+    "name": "Japanese Snack Box",
+    "price_inr": 4200,
+    "category": "food-drink",
+    "occasion_tags": [
+      "holiday",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_127",
+    "name": "Cooking Class Voucher",
+    "price_inr": 13900,
+    "category": "experience",
+    "occasion_tags": [
+      "birthday",
+      "other",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.1,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_128",
+    "name": "Spa Day Package",
+    "price_inr": 10600,
+    "category": "experience",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "other",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_129",
+    "name": "Wine Tasting Experience",
+    "price_inr": 4500,
+    "category": "experience",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_130",
+    "name": "Photography Workshop",
+    "price_inr": 9500,
+    "category": "experience",
+    "occasion_tags": [
+      "just-because",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "other",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_131",
+    "name": "Pottery Class Ticket",
+    "price_inr": 13000,
+    "category": "experience",
+    "occasion_tags": [
+      "other",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_132",
+    "name": "Theatre Show Tickets",
+    "price_inr": 8700,
+    "category": "experience",
+    "occasion_tags": [
+      "holiday",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_133",
+    "name": "Adventure Sports Voucher",
+    "price_inr": 9500,
+    "category": "experience",
+    "occasion_tags": [
+      "wedding",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_134",
+    "name": "Art Gallery Membership",
+    "price_inr": 5900,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_135",
+    "name": "Concert Tickets Gift",
+    "price_inr": 1000,
+    "category": "experience",
+    "occasion_tags": [
+      "other",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_136",
+    "name": "Escape Room Experience",
+    "price_inr": 4500,
+    "category": "experience",
+    "occasion_tags": [
+      "graduation",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_137",
+    "name": "Stargazing Experience",
+    "price_inr": 13400,
+    "category": "experience",
+    "occasion_tags": [
+      "wedding",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_138",
+    "name": "Dance Class Subscription",
+    "price_inr": 13300,
+    "category": "experience",
+    "occasion_tags": [
+      "other",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_139",
+    "name": "Silver Charm Bracelet",
+    "price_inr": 2100,
+    "category": "jewellery",
+    "occasion_tags": [
+      "anniversary",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_140",
+    "name": "Pendant Necklace Stone",
+    "price_inr": 6300,
+    "category": "jewellery",
+    "occasion_tags": [
+      "wedding",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_141",
+    "name": "Anklet Silver Chain",
+    "price_inr": 4600,
+    "category": "jewellery",
+    "occasion_tags": [
+      "anniversary",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_142",
+    "name": "Brooch Vintage Style",
+    "price_inr": 900,
+    "category": "jewellery",
+    "occasion_tags": [
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_143",
+    "name": "Ring Stackable Set",
+    "price_inr": 5200,
+    "category": "jewellery",
+    "occasion_tags": [
+      "wedding",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_144",
+    "name": "Earrings Geometric",
+    "price_inr": 8100,
+    "category": "jewellery",
+    "occasion_tags": [
+      "other",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_145",
+    "name": "Pearl Strand Classic",
+    "price_inr": 7400,
+    "category": "jewellery",
+    "occasion_tags": [
+      "holiday",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_146",
+    "name": "Bangle Set Brass",
+    "price_inr": 3400,
+    "category": "jewellery",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_147",
+    "name": "Beard Grooming Kit",
+    "price_inr": 1800,
+    "category": "personal-care",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_148",
+    "name": "Luxury Bath Bomb Set",
+    "price_inr": 400,
+    "category": "personal-care",
+    "occasion_tags": [
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_149",
+    "name": "Perfume Discovery Set",
+    "price_inr": 3100,
+    "category": "personal-care",
+    "occasion_tags": [
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_150",
+    "name": "Face Mask Collection",
+    "price_inr": 3100,
+    "category": "personal-care",
+    "occasion_tags": [
+      "other",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_151",
+    "name": "Lip Care Gift Set",
+    "price_inr": 1700,
+    "category": "personal-care",
+    "occasion_tags": [
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_152",
+    "name": "Manicure Set Premium",
+    "price_inr": 1900,
+    "category": "personal-care",
+    "occasion_tags": [
+      "other",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_153",
+    "name": "Hair Care Gift Box",
+    "price_inr": 3000,
+    "category": "personal-care",
+    "occasion_tags": [
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_154",
+    "name": "Body Lotion Gift Set",
+    "price_inr": 1000,
+    "category": "personal-care",
+    "occasion_tags": [
+      "anniversary",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_155",
+    "name": "Strategy Board Game",
+    "price_inr": 500,
+    "category": "games",
+    "occasion_tags": [
+      "holiday",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_156",
+    "name": "Puzzle 1000 Pieces Art",
+    "price_inr": 4400,
+    "category": "games",
+    "occasion_tags": [
+      "just-because",
+      "other",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_157",
+    "name": "Card Game Collection",
+    "price_inr": 4400,
+    "category": "games",
+    "occasion_tags": [
+      "graduation",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_158",
+    "name": "Chess Set Wooden",
+    "price_inr": 3700,
+    "category": "games",
+    "occasion_tags": [
+      "other",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_159",
+    "name": "Rubiks Cube Speed",
+    "price_inr": 4600,
+    "category": "games",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_160",
+    "name": "Trivia Game Night Set",
+    "price_inr": 1400,
+    "category": "games",
+    "occasion_tags": [
+      "graduation",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_161",
+    "name": "Building Block Set",
+    "price_inr": 2000,
+    "category": "games",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_162",
+    "name": "Jigsaw Puzzle 3D",
+    "price_inr": 3700,
+    "category": "games",
+    "occasion_tags": [
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.7,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_163",
+    "name": "Guitar Capo Set",
+    "price_inr": 7400,
+    "category": "music",
+    "occasion_tags": [
+      "graduation",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_164",
+    "name": "Vinyl Record Classic",
+    "price_inr": 1900,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_165",
+    "name": "Music Box Wooden",
+    "price_inr": 7600,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "other",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_166",
+    "name": "Instrument Cleaning Kit",
+    "price_inr": 3300,
+    "category": "music",
+    "occasion_tags": [
+      "anniversary",
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_167",
+    "name": "Piano Key Notebook",
+    "price_inr": 3800,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_168",
+    "name": "Concert Poster Framed",
+    "price_inr": 5300,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_169",
+    "name": "Ukulele Starter Kit",
+    "price_inr": 3500,
+    "category": "music",
+    "occasion_tags": [
+      "graduation",
+      "holiday",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.9,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_170",
+    "name": "Bluetooth Turntable",
+    "price_inr": 5100,
+    "category": "music",
+    "occasion_tags": [
+      "holiday",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_171",
+    "name": "Sketching Pencil Set",
+    "price_inr": 2900,
+    "category": "art",
+    "occasion_tags": [
+      "just-because",
+      "holiday",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "bookworm",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_172",
+    "name": "Canvas Painting Kit",
+    "price_inr": 4000,
+    "category": "art",
+    "occasion_tags": [
+      "other",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "bookworm",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_173",
+    "name": "Pottery Clay Kit",
+    "price_inr": 3500,
+    "category": "art",
+    "occasion_tags": [
+      "just-because",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "bookworm",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_174",
+    "name": "Digital Drawing Tablet",
+    "price_inr": 1500,
+    "category": "art",
+    "occasion_tags": [
+      "holiday",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "bookworm",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_175",
+    "name": "Resin Art Kit",
+    "price_inr": 3500,
+    "category": "art",
+    "occasion_tags": [
+      "anniversary",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "parent",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "bookworm",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_176",
+    "name": "Brush Set Professional",
+    "price_inr": 4200,
+    "category": "art",
+    "occasion_tags": [
+      "anniversary",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "bookworm",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.3,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_177",
+    "name": "Easel Tabletop",
+    "price_inr": 2800,
+    "category": "art",
+    "occasion_tags": [
+      "just-because",
+      "graduation",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_178",
+    "name": "Mandala Colouring Book",
+    "price_inr": 4800,
+    "category": "art",
+    "occasion_tags": [
+      "other",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "child",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "bookworm",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.8,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_179",
+    "name": "Indoor Herb Garden Kit",
+    "price_inr": 1500,
+    "category": "gardening",
+    "occasion_tags": [
+      "wedding",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "homebody",
+      "outdoorsy",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.6,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_180",
+    "name": "Bonsai Starter Kit",
+    "price_inr": 1300,
+    "category": "gardening",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "homebody",
+      "outdoorsy",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_181",
+    "name": "Gardening Tool Set",
+    "price_inr": 1400,
+    "category": "gardening",
+    "occasion_tags": [
+      "just-because",
+      "other",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "outdoorsy",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_182",
+    "name": "Plant Mister Brass",
+    "price_inr": 1200,
+    "category": "gardening",
+    "occasion_tags": [
+      "anniversary",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_183",
+    "name": "Seed Bomb Collection",
+    "price_inr": 1100,
+    "category": "gardening",
+    "occasion_tags": [
+      "anniversary",
+      "graduation",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "outdoorsy",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_184",
+    "name": "Terracotta Pot Set",
+    "price_inr": 3000,
+    "category": "gardening",
+    "occasion_tags": [
+      "holiday",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "other",
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.2,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_185",
+    "name": "Gardening Gloves",
+    "price_inr": 2300,
+    "category": "gardening",
+    "occasion_tags": [
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "child",
+      "other",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "outdoorsy",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 3.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_186",
+    "name": "Compost Bin Kitchen",
+    "price_inr": 1400,
+    "category": "gardening",
+    "occasion_tags": [
+      "other",
+      "just-because",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "outdoorsy",
+      "foodie"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": 4.5,
+    "interaction_count": 0
+  },
+  {
+    "id": "item_187",
+    "name": "Lego Creator Expert Set Pro",
+    "price_inr": 14400,
+    "category": "games",
+    "occasion_tags": [
+      "birthday",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_188",
+    "name": "Premium Telescope Elite",
+    "price_inr": 18200,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "outdoorsy",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_189",
+    "name": "Hoverboard",
+    "price_inr": 18300,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "other"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "gamer",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_190",
+    "name": "Interactive Robotics Kit",
+    "price_inr": 8400,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "5.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_191",
+    "name": "Watercolour Paint Set Premium",
+    "price_inr": 5600,
+    "category": "art",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_192",
+    "name": "Microscope for Kids Edition",
+    "price_inr": 8000,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "child"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_193",
+    "name": "Diamond Tennis Bracelet V2",
+    "price_inr": 85500,
+    "category": "jewellery",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "other"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_194",
+    "name": "Designer Silk Scarf Bundle",
+    "price_inr": 12000,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "holiday",
+      "other"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_195",
+    "name": "Luxury Spa Weekend Elite",
+    "price_inr": 24900,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_196",
+    "name": "Couples Cooking Masterclass Elite",
+    "price_inr": 9000,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_197",
+    "name": "Solid Gold Hoop Earrings Bundle",
+    "price_inr": 28600,
+    "category": "jewellery-personal",
+    "occasion_tags": [
+      "birthday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_198",
+    "name": "Massage Chair Pad",
+    "price_inr": 13600,
+    "category": "wellness",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation",
+      "other"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "colleague"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_199",
+    "name": "Noise-Cancelling Headphones Pro",
+    "price_inr": 20500,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "friend",
+      "colleague",
+      "other"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_200",
+    "name": "Smart Coffee Maker",
+    "price_inr": 26500,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "parent"
+    ],
+    "personality_tags": [
+      "foodie",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_201",
+    "name": "Ergonomic Office Chair",
+    "price_inr": 36200,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "wellness",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_202",
+    "name": "E-Reader Premium Edition Elite",
+    "price_inr": 15700,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "sibling",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_203",
+    "name": "Mechanical Keyboard Custom",
+    "price_inr": 17300,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "colleague",
+      "partner",
+      "child"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "5.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_204",
+    "name": "Premium Backpacking Tent",
+    "price_inr": 16100,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_205",
+    "name": "Action Camera 4K",
+    "price_inr": 21400,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_206",
+    "name": "Travel Duffel Bag",
+    "price_inr": 9100,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_207",
+    "name": "Portable Espresso Maker",
+    "price_inr": 13000,
+    "category": "kitchen",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "foodie",
+      "traveller",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_208",
+    "name": "Survival Gear Kit Premium",
+    "price_inr": 3900,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "other"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "colleague",
+      "parent"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_209",
+    "name": "Robotic Vacuum Cleaner Premium",
+    "price_inr": 42700,
+    "category": "tech",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "homebody",
+      "tech-lover",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_210",
+    "name": "Luxury Egyptian Cotton Sheets Elite",
+    "price_inr": 19000,
+    "category": "home-decor",
+    "occasion_tags": [
+      "wedding",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_211",
+    "name": "Smart Herb Garden Elite",
+    "price_inr": 6100,
+    "category": "gardening",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "outdoorsy",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_212",
+    "name": "Wine Tasting Experience Pro",
+    "price_inr": 8900,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_213",
+    "name": "Ceramic Cookware Set",
+    "price_inr": 32800,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "child"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_214",
+    "name": "Retro Record Player",
+    "price_inr": 9900,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_215",
+    "name": "Vinyl Record Collection",
+    "price_inr": 6900,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "partner",
+      "parent"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_216",
+    "name": "Concert Tickets",
+    "price_inr": 13500,
+    "category": "experience",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling",
+      "child"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_217",
+    "name": "Premium Fountain Pen",
+    "price_inr": 12200,
+    "category": "stationery",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "working",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "parent"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_218",
+    "name": "VR Headset",
+    "price_inr": 47600,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_219",
+    "name": "Lego Creator Expert Set Edition",
+    "price_inr": 8400,
+    "category": "games",
+    "occasion_tags": [
+      "birthday",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.3",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_220",
+    "name": "Premium Telescope Edition",
+    "price_inr": 20100,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "outdoorsy",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_221",
+    "name": "Hoverboard Set",
+    "price_inr": 21800,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "gamer",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_222",
+    "name": "Interactive Robotics Kit Elite",
+    "price_inr": 8700,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_223",
+    "name": "Watercolour Paint Set",
+    "price_inr": 6500,
+    "category": "art",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner",
+      "sibling",
+      "colleague"
+    ],
+    "personality_tags": [
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_224",
+    "name": "Microscope for Kids V2",
+    "price_inr": 4800,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_225",
+    "name": "Diamond Tennis Bracelet",
+    "price_inr": 67900,
+    "category": "jewellery",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_226",
+    "name": "Designer Silk Scarf Bundle",
+    "price_inr": 16300,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "holiday",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_227",
+    "name": "Luxury Spa Weekend Pro",
+    "price_inr": 22700,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "other"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_228",
+    "name": "Couples Cooking Masterclass",
+    "price_inr": 7900,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because",
+      "other"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_229",
+    "name": "Solid Gold Hoop Earrings Bundle",
+    "price_inr": 15500,
+    "category": "jewellery-personal",
+    "occasion_tags": [
+      "birthday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_230",
+    "name": "Massage Chair Pad Bundle",
+    "price_inr": 15700,
+    "category": "wellness",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "colleague"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_231",
+    "name": "Noise-Cancelling Headphones Pro",
+    "price_inr": 22000,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_232",
+    "name": "Smart Coffee Maker Edition",
+    "price_inr": 15500,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "parent",
+      "sibling"
+    ],
+    "personality_tags": [
+      "foodie",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_233",
+    "name": "Ergonomic Office Chair Premium",
+    "price_inr": 24700,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "wellness",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_234",
+    "name": "E-Reader Premium Edition Edition",
+    "price_inr": 16100,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "sibling",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_235",
+    "name": "Mechanical Keyboard Custom",
+    "price_inr": 8700,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "colleague",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_236",
+    "name": "Premium Backpacking Tent",
+    "price_inr": 31200,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "anniversary",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "5.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_237",
+    "name": "Action Camera 4K Set",
+    "price_inr": 29300,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday",
+      "other"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "child",
+      "friend",
+      "other"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_238",
+    "name": "Travel Duffel Bag Bundle",
+    "price_inr": 9300,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_239",
+    "name": "Portable Espresso Maker Bundle",
+    "price_inr": 7000,
+    "category": "kitchen",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "foodie",
+      "traveller",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_240",
+    "name": "Survival Gear Kit Edition",
+    "price_inr": 6400,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "colleague"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_241",
+    "name": "Robotic Vacuum Cleaner",
+    "price_inr": 24500,
+    "category": "tech",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "sibling",
+      "colleague"
+    ],
+    "personality_tags": [
+      "homebody",
+      "tech-lover",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_242",
+    "name": "Luxury Egyptian Cotton Sheets",
+    "price_inr": 10400,
+    "category": "home-decor",
+    "occasion_tags": [
+      "wedding",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_243",
+    "name": "Smart Herb Garden",
+    "price_inr": 6300,
+    "category": "gardening",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "anniversary",
+      "other"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "outdoorsy",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.3",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_244",
+    "name": "Wine Tasting Experience Set",
+    "price_inr": 12200,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_245",
+    "name": "Ceramic Cookware Set V2",
+    "price_inr": 24200,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_246",
+    "name": "Retro Record Player Bundle",
+    "price_inr": 12800,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_247",
+    "name": "Vinyl Record Collection",
+    "price_inr": 3400,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "partner",
+      "child"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_248",
+    "name": "Concert Tickets",
+    "price_inr": 8700,
+    "category": "experience",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling",
+      "child"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_249",
+    "name": "Premium Fountain Pen",
+    "price_inr": 5200,
+    "category": "stationery",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "working"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "parent"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_250",
+    "name": "VR Headset",
+    "price_inr": 33600,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_251",
+    "name": "Lego Creator Expert Set",
+    "price_inr": 6900,
+    "category": "games",
+    "occasion_tags": [
+      "birthday",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.3",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_252",
+    "name": "Premium Telescope Bundle",
+    "price_inr": 11400,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend",
+      "other"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "outdoorsy",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.3",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_253",
+    "name": "Hoverboard Pro",
+    "price_inr": 16700,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "other"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "gamer",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_254",
+    "name": "Interactive Robotics Kit Premium",
+    "price_inr": 6400,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_255",
+    "name": "Watercolour Paint Set V2",
+    "price_inr": 4100,
+    "category": "art",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_256",
+    "name": "Microscope for Kids",
+    "price_inr": 5800,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_257",
+    "name": "Diamond Tennis Bracelet",
+    "price_inr": 52300,
+    "category": "jewellery",
+    "occasion_tags": [
+      "anniversary",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "partner"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_258",
+    "name": "Designer Silk Scarf Bundle",
+    "price_inr": 13000,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "holiday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_259",
+    "name": "Luxury Spa Weekend",
+    "price_inr": 31500,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.3",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_260",
+    "name": "Couples Cooking Masterclass",
+    "price_inr": 6100,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because",
+      "other"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_261",
+    "name": "Solid Gold Hoop Earrings",
+    "price_inr": 16600,
+    "category": "jewellery-personal",
+    "occasion_tags": [
+      "birthday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_262",
+    "name": "Massage Chair Pad",
+    "price_inr": 11300,
+    "category": "wellness",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "colleague"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_263",
+    "name": "Noise-Cancelling Headphones Pro",
+    "price_inr": 25500,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_264",
+    "name": "Smart Coffee Maker",
+    "price_inr": 12300,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "parent"
+    ],
+    "personality_tags": [
+      "foodie",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_265",
+    "name": "Ergonomic Office Chair",
+    "price_inr": 25400,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "wellness",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_266",
+    "name": "E-Reader Premium Edition",
+    "price_inr": 21600,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "sibling",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_267",
+    "name": "Mechanical Keyboard Custom",
+    "price_inr": 18400,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "colleague",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_268",
+    "name": "Premium Backpacking Tent Set",
+    "price_inr": 40300,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "anniversary",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling",
+      "colleague"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_269",
+    "name": "Action Camera 4K",
+    "price_inr": 35600,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "5.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_270",
+    "name": "Travel Duffel Bag Elite",
+    "price_inr": 6500,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "sibling",
+      "other"
+    ],
+    "personality_tags": [
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_271",
+    "name": "Portable Espresso Maker",
+    "price_inr": 8700,
+    "category": "kitchen",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because",
+      "other"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "foodie",
+      "traveller",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_272",
+    "name": "Survival Gear Kit",
+    "price_inr": 3100,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "colleague"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_273",
+    "name": "Robotic Vacuum Cleaner",
+    "price_inr": 47000,
+    "category": "tech",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "sibling",
+      "child"
+    ],
+    "personality_tags": [
+      "homebody",
+      "tech-lover",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_274",
+    "name": "Luxury Egyptian Cotton Sheets Bundle",
+    "price_inr": 8900,
+    "category": "home-decor",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "colleague"
+    ],
+    "personality_tags": [
+      "homebody",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "5.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_275",
+    "name": "Smart Herb Garden",
+    "price_inr": 14300,
+    "category": "gardening",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "outdoorsy",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_276",
+    "name": "Wine Tasting Experience Set",
+    "price_inr": 17200,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_277",
+    "name": "Ceramic Cookware Set Edition",
+    "price_inr": 16000,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_278",
+    "name": "Retro Record Player Set",
+    "price_inr": 18000,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_279",
+    "name": "Vinyl Record Collection",
+    "price_inr": 6100,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "partner",
+      "other"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_280",
+    "name": "Concert Tickets",
+    "price_inr": 12400,
+    "category": "experience",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "graduation",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling",
+      "child"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_281",
+    "name": "Premium Fountain Pen Edition",
+    "price_inr": 8800,
+    "category": "stationery",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "working",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "parent",
+      "other"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.3",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_282",
+    "name": "VR Headset V2",
+    "price_inr": 33300,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_283",
+    "name": "Lego Creator Expert Set",
+    "price_inr": 14300,
+    "category": "games",
+    "occasion_tags": [
+      "birthday",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_284",
+    "name": "Premium Telescope V2",
+    "price_inr": 16400,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "outdoorsy",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_285",
+    "name": "Hoverboard Edition",
+    "price_inr": 22200,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "colleague"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "gamer",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_286",
+    "name": "Interactive Robotics Kit Bundle",
+    "price_inr": 11600,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_287",
+    "name": "Watercolour Paint Set",
+    "price_inr": 2100,
+    "category": "art",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.3",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_288",
+    "name": "Microscope for Kids",
+    "price_inr": 4400,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "other"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_289",
+    "name": "Diamond Tennis Bracelet Set",
+    "price_inr": 46300,
+    "category": "jewellery",
+    "occasion_tags": [
+      "anniversary",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_290",
+    "name": "Designer Silk Scarf",
+    "price_inr": 16500,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_291",
+    "name": "Luxury Spa Weekend",
+    "price_inr": 39500,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_292",
+    "name": "Couples Cooking Masterclass",
+    "price_inr": 11600,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_293",
+    "name": "Solid Gold Hoop Earrings Set",
+    "price_inr": 23900,
+    "category": "jewellery-personal",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_294",
+    "name": "Massage Chair Pad V2",
+    "price_inr": 16600,
+    "category": "wellness",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "colleague",
+      "child"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_295",
+    "name": "Noise-Cancelling Headphones Pro",
+    "price_inr": 19900,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_296",
+    "name": "Smart Coffee Maker Bundle",
+    "price_inr": 15100,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "parent"
+    ],
+    "personality_tags": [
+      "foodie",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_297",
+    "name": "Ergonomic Office Chair",
+    "price_inr": 22400,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because",
+      "other"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "wellness",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_298",
+    "name": "E-Reader Premium Edition Bundle",
+    "price_inr": 16000,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "sibling",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_299",
+    "name": "Mechanical Keyboard Custom Edition",
+    "price_inr": 9000,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "colleague",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_300",
+    "name": "Premium Backpacking Tent",
+    "price_inr": 37700,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_301",
+    "name": "Action Camera 4K Pro",
+    "price_inr": 25400,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "5.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_302",
+    "name": "Travel Duffel Bag Edition",
+    "price_inr": 5900,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.1",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_303",
+    "name": "Portable Espresso Maker",
+    "price_inr": 12500,
+    "category": "kitchen",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "sibling",
+      "other"
+    ],
+    "personality_tags": [
+      "foodie",
+      "traveller",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_304",
+    "name": "Survival Gear Kit Edition",
+    "price_inr": 3700,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "colleague"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_305",
+    "name": "Robotic Vacuum Cleaner",
+    "price_inr": 23400,
+    "category": "tech",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "homebody",
+      "tech-lover",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_306",
+    "name": "Luxury Egyptian Cotton Sheets",
+    "price_inr": 18200,
+    "category": "home-decor",
+    "occasion_tags": [
+      "wedding",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner"
+    ],
+    "personality_tags": [
+      "homebody",
+      "wellness"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_307",
+    "name": "Smart Herb Garden Bundle",
+    "price_inr": 8000,
+    "category": "gardening",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody",
+      "outdoorsy",
+      "tech-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_308",
+    "name": "Wine Tasting Experience Bundle",
+    "price_inr": 7500,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "foodie",
+      "music-lover"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_309",
+    "name": "Ceramic Cookware Set V2",
+    "price_inr": 25000,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "parent",
+      "partner",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_310",
+    "name": "Retro Record Player V2",
+    "price_inr": 10400,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "child",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "homebody",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_311",
+    "name": "Vinyl Record Collection",
+    "price_inr": 4700,
+    "category": "music",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_312",
+    "name": "Concert Tickets",
+    "price_inr": 22200,
+    "category": "experience",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling",
+      "child",
+      "colleague"
+    ],
+    "personality_tags": [
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_313",
+    "name": "Premium Fountain Pen",
+    "price_inr": 4900,
+    "category": "stationery",
+    "occasion_tags": [
+      "graduation",
+      "birthday",
+      "working"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "parent"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_314",
+    "name": "VR Headset Edition",
+    "price_inr": 33600,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation",
+      "other"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner",
+      "friend",
+      "other"
+    ],
+    "personality_tags": [
+      "gamer",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_315",
+    "name": "Lego Creator Expert Set",
+    "price_inr": 5700,
+    "category": "games",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "gamer",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_316",
+    "name": "Premium Telescope",
+    "price_inr": 19200,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "child",
+      "partner",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "outdoorsy",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_317",
+    "name": "Hoverboard",
+    "price_inr": 15300,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling",
+      "partner"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "gamer",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_318",
+    "name": "Interactive Robotics Kit",
+    "price_inr": 9300,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.0",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_319",
+    "name": "Watercolour Paint Set Edition",
+    "price_inr": 6800,
+    "category": "art",
+    "occasion_tags": [
+      "birthday",
+      "just-because",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "child",
+      "friend",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "artist",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_320",
+    "name": "Microscope for Kids V2",
+    "price_inr": 3000,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "other"
+    ],
+    "relationship_tags": [
+      "child",
+      "sibling"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "bookworm"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_321",
+    "name": "Diamond Tennis Bracelet Premium",
+    "price_inr": 90200,
+    "category": "jewellery",
+    "occasion_tags": [
+      "anniversary",
+      "wedding"
+    ],
+    "relationship_tags": [
+      "partner",
+      "other"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.2",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_322",
+    "name": "Designer Silk Scarf",
+    "price_inr": 15600,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "anniversary",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "friend"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_323",
+    "name": "Luxury Spa Weekend V2",
+    "price_inr": 38000,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "wedding",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.9",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_324",
+    "name": "Couples Cooking Masterclass Set",
+    "price_inr": 6700,
+    "category": "experience",
+    "occasion_tags": [
+      "anniversary",
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "foodie",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_325",
+    "name": "Solid Gold Hoop Earrings",
+    "price_inr": 17100,
+    "category": "jewellery-personal",
+    "occasion_tags": [
+      "birthday",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "colleague"
+    ],
+    "personality_tags": [
+      "artist",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_326",
+    "name": "Massage Chair Pad",
+    "price_inr": 17200,
+    "category": "wellness",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "graduation"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "colleague",
+      "other"
+    ],
+    "personality_tags": [
+      "wellness",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_327",
+    "name": "Noise-Cancelling Headphones Pro",
+    "price_inr": 16600,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "friend",
+      "colleague"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "music-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_328",
+    "name": "Smart Coffee Maker",
+    "price_inr": 16200,
+    "category": "kitchen",
+    "occasion_tags": [
+      "wedding",
+      "anniversary",
+      "birthday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "parent"
+    ],
+    "personality_tags": [
+      "foodie",
+      "tech-lover",
+      "homebody"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_329",
+    "name": "Ergonomic Office Chair Bundle",
+    "price_inr": 28800,
+    "category": "home-decor",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because",
+      "other"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "wellness",
+      "gamer"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.3",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_330",
+    "name": "E-Reader Premium Edition Set",
+    "price_inr": 16500,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "parent",
+      "sibling",
+      "friend",
+      "colleague",
+      "other"
+    ],
+    "personality_tags": [
+      "bookworm",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.6",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_331",
+    "name": "Mechanical Keyboard Custom",
+    "price_inr": 13500,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "sibling",
+      "friend",
+      "colleague",
+      "partner"
+    ],
+    "personality_tags": [
+      "tech-lover",
+      "gamer",
+      "artist"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.8",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_332",
+    "name": "Premium Backpacking Tent Elite",
+    "price_inr": 21600,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "wedding",
+      "anniversary"
+    ],
+    "relationship_tags": [
+      "partner",
+      "friend",
+      "sibling",
+      "child"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_333",
+    "name": "Action Camera 4K Pro",
+    "price_inr": 21300,
+    "category": "tech",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "partner",
+      "sibling",
+      "child",
+      "friend"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "tech-lover",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "4.4",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_334",
+    "name": "Travel Duffel Bag",
+    "price_inr": 9200,
+    "category": "fashion",
+    "occasion_tags": [
+      "birthday",
+      "graduation",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "partner",
+      "colleague",
+      "friend",
+      "sibling"
+    ],
+    "personality_tags": [
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.7",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_335",
+    "name": "Portable Espresso Maker",
+    "price_inr": 5800,
+    "category": "kitchen",
+    "occasion_tags": [
+      "birthday",
+      "holiday",
+      "just-because"
+    ],
+    "relationship_tags": [
+      "colleague",
+      "friend",
+      "partner",
+      "sibling"
+    ],
+    "personality_tags": [
+      "foodie",
+      "traveller",
+      "outdoorsy"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.5",
+    "interaction_count": 0
+  },
+  {
+    "id": "item_336",
+    "name": "Survival Gear Kit Elite",
+    "price_inr": 3100,
+    "category": "outdoor",
+    "occasion_tags": [
+      "birthday",
+      "holiday"
+    ],
+    "relationship_tags": [
+      "friend",
+      "sibling",
+      "colleague",
+      "child"
+    ],
+    "personality_tags": [
+      "outdoorsy",
+      "traveller"
+    ],
+    "image_url": "/placeholder.jpg",
+    "shop_url": "#",
+    "avg_rating": "3.6",
+    "interaction_count": 0
+  }
+]
